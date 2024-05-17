@@ -1,3 +1,4 @@
 # Deepfake-detection
-project idt
-6 th semester project idt
+Project For INNOVATION AND DESIGN THINKING
+Deep fake detection detects whether the given imaghe is ai generated or real image
+
